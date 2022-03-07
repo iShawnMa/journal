@@ -3,7 +3,7 @@ baseURL: https://ishawnma.github.io/Journal/
 title: Journal
 paginate: 5
 theme: "PaperMod"
-
+publishdir: docs
 
 enableRobotsTXT: true
 buildDrafts: true
